@@ -3,6 +3,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Mahaweli Authority Admin System<br>🌱 I’m learning Advanced Human-Computer Interaction (HCI) and Quantum-Enhanced Temporal Interface Fusion (QTIF)<br>👯 I’m looking to collaborate on Zenride<br>💬 Ask me about 3D modeling, frontend development, AI integration<br>📫 Reach me at menuzhewage@gmail.com<br>⚡ Fun fact: I love exploring space and philosophy or creating mind-blowing 3D models when not coding!
 
+---
+[![](https://visitcount.itsvg.in/api?id=menuzhewage&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/menuz_hewage/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menuwantha-hewage-284966289/)
@@ -16,12 +19,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=menuzhewage&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=menuzhewage&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=menuzhewage&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
