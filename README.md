@@ -1,7 +1,7 @@
 <div align="center">
 
 # Menuz Hewage
-🔭 I’m currently working on Mahaweli Authority Admin System<br>🌱 I’m learning Advanced Human-Computer Interaction (HCI) and Quantum-Enhanced Temporal Interface Fusion (QTIF)<br>👯 I’m looking to collaborate on Zenride<br>💬 Ask me about 3D modeling, frontend development, AI integration<br>📫 Reach me at menuzhewage@gmail.com<br>⚡ Fun fact: I love exploring space and philosophy or creating mind-blowing 3D models when not coding!
+🔭 I’m currently working on Mahaweli Authority Admin System<br>🌱 I’m learning Advanced Human-Computer Interaction (HCI) and Quantum-Enhanced Temporal Interface Fusion (QTIF)<br>👯 I’m looking to collaborate on Zenride<br>💬 Ask me about 3D modeling, frontend development, AI integration<br>📫 Reach me at menuzhewage@gmail.com<br>⚡Fun fact: I love exploring space and philosophy or creating mind-blowing 3D models when not coding!
 
 ---
 
